@@ -1,3 +1,3 @@
 # BusinessCard
 
-![BusinessCard using Flutter][BusinessCard.png]
+![BusinessCard using Flutter](BusinessCard.png)
